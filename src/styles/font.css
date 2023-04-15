@@ -1,0 +1,10 @@
+
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/SulphurPointBold.ttf"); font-family : "Sulphur Point"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/SulphurPointRegular.ttf"); font-family : "Sulphur Point"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RobotoRomanBold.ttf"); font-family : "Roboto"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RubikRomanRegular.ttf"); font-family : "Rubik"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RubikRomanMedium.ttf"); font-family : "Rubik"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RobotoMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoRomanRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RobotoRomanMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
