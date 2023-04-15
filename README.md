@@ -1,6 +1,3 @@
-## aaryan_s_application
-
-
 ## Description
 
 - This React application is built using [create-react-app](https://create-react-app.dev/).
