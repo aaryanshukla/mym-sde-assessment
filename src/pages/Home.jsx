@@ -8,7 +8,7 @@ const Home = () => {
       </p>
       <ul>
         <li>
-          <Link to="/one">One</Link>
+          <Link to="/dashboard">Dashboard</Link>
         </li>
       </ul>
     </div>
